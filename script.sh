@@ -1,2 +1,2 @@
 #!/bin/sh
-pstree -p
+yum list | grep openjdk
